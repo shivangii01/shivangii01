@@ -6,10 +6,10 @@ A BCA graduate currently building my path into Data Analytics. I'm on a self dri
 🔹 Open to internships and fresher Data Analyst roles <br>
 🛠️ Technical Skills 
 
-Python
-SQL & MySQL
-Pandas
-Power BI
+Python <br>
+SQL & MySQL <br>
+Pandas <br>
+Power BI <br>
 Tableau (Learning)
 
 🌱 Current Goal
