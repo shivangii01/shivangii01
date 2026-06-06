@@ -1,5 +1,19 @@
 # 💫 About Me:
-AI/ML-based real-world projects using Python<br>Building desktop applications with Tkinter<br>Implementing machine learning models into practical applications<br> AI & Machine Learning projects<br>Python + Tkinter desktop applications<br>Real-world problem-solving projects using ML algorithms<br> Advanced Machine Learning algorithms<br>Deep Learning basics<br>Python automation & GUI development<br>Data preprocessing, feature engineering & model optimization<br> Python Programming<br>Machine Learning & AI concepts<br>Tkinter GUI development<br>Turning ML models into real-world applications<br>I love converting data into intelligent applications 🤖<br>Every ML bug teaches me something new 🧠<br>Code + AI = endless possibilities 🚀
+Hi, I'm Shivangi!
+A BCA graduate currently building my path into Data Analytics. I'm on a self driven learning journey — working through SQL, Python, Power BI, Pandas and Tableau and turning that knowledge into real projects you can see right here on this profile.
+🔹 Actively building hands-on projects on real world datasets
+🔹 Focused on data analysis, visualization and dashboard creation
+🔹 Open to internships and fresher Data Analyst roles
+🛠️ Technical Skills
+
+Python
+SQL & MySQL
+Pandas
+Power BI
+Tableau (Learning)
+
+🌱 Current Goal
+Land my first Data Analyst role in 2026 and grow into a data professional at a company that values curiosity and impact.
 
 
 ## 🌐 Socials:
