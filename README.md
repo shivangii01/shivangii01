@@ -1,10 +1,10 @@
 # 💫 About Me:
 Hi, I'm Shivangi!
-A BCA graduate currently building my path into Data Analytics. I'm on a self driven learning journey — working through SQL, Python, Power BI, Pandas and Tableau and turning that knowledge into real projects you can see right here on this profile.
-🔹 Actively building hands-on projects on real world datasets
-🔹 Focused on data analysis, visualization and dashboard creation
-🔹 Open to internships and fresher Data Analyst roles
-🛠️ Technical Skills
+A BCA graduate currently building my path into Data Analytics. I'm on a self driven learning journey — working through SQL, Python, Power BI, Pandas and Tableau and turning that knowledge into real projects you can see right here on this profile. <br>
+🔹 Actively building hands-on projects on real world datasets <br>
+🔹 Focused on data analysis, visualization and dashboard creation <br>
+🔹 Open to internships and fresher Data Analyst roles <br>
+🛠️ Technical Skills 
 
 Python
 SQL & MySQL
